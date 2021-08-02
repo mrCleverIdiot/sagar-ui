@@ -23,3 +23,7 @@ Custom Css
   .sticky + .content {
     padding-top: 60px;
   }
+  .firstImg{
+    background: url(https://c1.wallpaperflare.com/preview/106/1005/114/beautiful-casual-countryside-daylight.jpg) center center no-repeat;
+    background-size: cover;
+  }
